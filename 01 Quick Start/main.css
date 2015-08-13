@@ -4,7 +4,7 @@
 */
 
 body {
-    background-color: white;
+    background-color: lightgray;
     margin: 5px;
     font-family: helvetica, arial, sans-serif;
 }
@@ -14,4 +14,8 @@ div#content {
     margin: 0 auto;
     padding: 10px;
     border: 1px solid #ccc;
+}
+
+h1 {
+    background-color: aqua
 }
