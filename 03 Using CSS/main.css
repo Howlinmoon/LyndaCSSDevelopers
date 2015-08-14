@@ -27,3 +27,12 @@ p {
     margin: 0 0 0.75em 0;
     line-height: 1.5em;
 }
+
+
+#sidebar {
+    float: right;
+    width: 25%;
+    background-color: #ffc;
+    border: 1px solid red;
+    padding: 10px;
+}
