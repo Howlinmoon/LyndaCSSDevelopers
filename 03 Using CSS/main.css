@@ -30,9 +30,15 @@ p {
 
 
 #sidebar {
-    float: right;
-    width: 25%;
+    //float: right;
+    //width: 25%;
     background-color: #ffc;
     border: 1px solid red;
     padding: 10px;
+}
+
+.highlight {
+    background-color: cadetblue;
+    border: 1px solid #f99;
+    padding: 1px 3px;
 }
